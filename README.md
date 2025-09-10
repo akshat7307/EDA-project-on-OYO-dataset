@@ -20,7 +20,7 @@ Top hotels and city-wise performance.
 
 Popular amenities and categories.
 
-#🔑 What We Have Done in This Project
+# 🔑 What We Have Done in This Project
 
 Data Loading & Cleaning
 

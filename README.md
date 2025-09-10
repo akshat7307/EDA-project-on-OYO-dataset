@@ -4,7 +4,7 @@
 
 OYO wants to understand how their hotels are performing across different cities. They want insights about hotel ratings, prices, discounts, and amenities so that they can improve customer satisfaction and pricing strategy.
 
-🎯 Task
+# 🎯 Task
 
 Clean and prepare hotel data (ratings, prices, room size, amenities, location).
 
@@ -20,7 +20,7 @@ Top hotels and city-wise performance.
 
 Popular amenities and categories.
 
-🔑 What We Have Done in This Project
+#🔑 What We Have Done in This Project
 
 Data Loading & Cleaning
 
@@ -60,7 +60,7 @@ Dashboard Building (with Streamlit + Plotly)
 
 Created interactive filters (City, Rating range, Amenities).
 
-Built 2 pages:
+# Built 2 pages:
 
 Overview → KPIs + Charts on Ratings, Prices, Discounts, Top Hotels.
 
@@ -70,7 +70,7 @@ All charts are interactive, responsive, and consistent in size.
 
 Added key insights that explain customer satisfaction and pricing strategy.
 
-📊 What We Get After Analysis
+# 📊 What We Get After Analysis
 
 Majority of hotels are rated between 3.5 – 4.2, showing they are good but not premium.
 
